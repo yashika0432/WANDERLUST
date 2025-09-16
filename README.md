@@ -59,3 +59,25 @@ The project was built as a full-stack practice app to strengthen skills in **web
 ├── app.js           # Main server file
 ├── package.json
 └── README.md
+```
+
+##⚡ Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yashika0432/WANDERLUST
+2. Navigate to project folder
+   ```bash
+   cd wanderlust
+3. Install dependencies
+   ```bash
+   npm install
+4. Set up environment variables in .env file
+   ```bash
+   MONGO_URI=your_mongodb_connection
+   CLOUDINARY_KEY=your_cloudinary_key
+   SESSION_SECRET=your_secret
+5. Start the server
+   ```bash
+   npm start
+6. Open http://localhost:8080 in your browser 🚀
