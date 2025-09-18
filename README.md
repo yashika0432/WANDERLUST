@@ -32,7 +32,7 @@ The project was built as a full-stack practice app to strengthen skills in **web
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-- HTML5, CSS3, JavaScript  
+- HTML5, CSS, JavaScript  
 - Bootstrap / TailwindCSS / EJS (if server-side rendering)  
 
 **Backend:**  
@@ -68,7 +68,7 @@ The project was built as a full-stack practice app to strengthen skills in **web
    git clone https://github.com/yashika0432/WANDERLUST
 2. Navigate to project folder
    ```bash
-   cd wanderlust
+   cd WANDERLUST
 3. Install dependencies
    ```bash
    npm install
